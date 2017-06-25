@@ -1,1 +1,1 @@
-alert ("SHALOM");
+console.log("hei");
