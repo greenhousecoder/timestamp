@@ -3,17 +3,21 @@
   "version": "1.0.0",
   "description": "timestamp microservice fcc",
   "main": "server.js",
-  "dependencies": {
-    "clementine": "^0.5.0",
-    "express": "^4.15.3",
-    "jquery": "^3.2.1",
-    "moment": "^2.18.1"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenhousecoder/timestamp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/greenhousecoder/timestamp/issues"
+  },
+  "homepage": "https://github.com/greenhousecoder/timestamp#readme"
 }
